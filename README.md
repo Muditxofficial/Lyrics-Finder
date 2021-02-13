@@ -1,5 +1,6 @@
 ## Lyrics-Finder
-
+DEMO:-
+![Farmers Market Finder Demo](./src/lyrics.gif)
 This app is created using context-api(Learning!!!)
 
 
